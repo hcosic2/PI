@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="b17f2ef3-11f9-4721-8a52-161b8be8b74e"
+  name="Class Diagram" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <referencesInternal>
+    <reference
+      Id="5a1c18d4-651b-4e56-aa33-67f13f30fd87"
+      handle="viewcode://./CodeSchema_Namespace?Namespace%3D::"
+      tag="ViewCode" />
+  </referencesInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="7fc91d70-2bea-463a-a532-7e09297f0452">
+      <profileInstance
+        Id="c545d82c-9ab4-43b9-a00d-b0779b406f5d"
+        name="CSharpProfile" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="bfd26b03-01bb-4057-85e8-f63468bec03e"
+        LastKnownName="Boso_d"
+        LastKnownLocation="Package_1738.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="fe045146-5b44-4724-b9fd-be6488be77f6"
+        LastKnownName="System"
+        LastKnownLocation="Package3_1738.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="ce9b11e6-33fb-444f-8a91-ca8f272506d9"
+        LastKnownName="MySql"
+        LastKnownLocation="Package7_1738.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="964f102b-bc27-4a30-85fa-cbbebaca2d72"
+        LastKnownName="Dobavljaci"
+        LastKnownLocation="Package_1742.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="2f126f5f-0279-4f10-a6b9-b39b7d0339ff"
+        name="MySqlDataReader"
+        visibility="Private"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="e33b6b38-b79d-41c8-a60e-06aee8fcee9b"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FF:%2FNovi projekt za 7. mjesec 2017%2FBoso d.o.o%2FBoso d.o.o%2Fbin%2FDebug%2FBoso d.o.o.exe&quot; Type%3DMySqlDataReader"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="2c6f9baf-e7ab-4fc8-9c03-b565299dba47"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="920ea630-cf45-44d3-8ee5-0ec9f089a28e">
+                <propertyInstance
+                  Id="cfb6050c-862f-4421-8296-cb17b21acb69"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="fb142927-16db-4d77-8a54-3690fcb3c7c9">
+                <propertyInstance
+                  Id="cbb8b727-5392-48b7-8d6a-fb39841eb775"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="8bd761b6-55b2-433c-96e6-5d987575955e">
+                <propertyInstance
+                  Id="49c83148-8f0c-431d-8493-d4563cd78dc0"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="dc369f19-9740-4ac5-80db-fa9b72bce844">
+                <propertyInstance
+                  Id="f3d55174-3be4-41f9-b8f3-a90c68f24b36"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="bd322d96-4efe-4942-8431-c928bdaf74a4">
+                <propertyInstance
+                  Id="5afd904f-c587-4865-be55-c7ff652bebc3"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <class
+        Id="99ffb2fa-bb6c-4933-8dd8-f667118a132f"
+        name="MySqlConnection"
+        visibility="Private"
+        isAbstract="false"
+        isLeaf="false"
+        isActiveClass="false">
+        <referencesInternal>
+          <reference
+            Id="238102a7-a85e-4503-86fd-ce9e546dca14"
+            handle="viewcode://./CodeSchema_Class?Assembly%3D&quot;file:%2F%2F%2FF:%2FNovi projekt za 7. mjesec 2017%2FBoso d.o.o%2FBoso d.o.o%2Fbin%2FDebug%2FBoso d.o.o.exe&quot; Type%3DMySqlConnection"
+            tag="ViewCode" />
+        </referencesInternal>
+        <appliedStereotypesInternal>
+          <stereotypeInstance
+            Id="92de0f10-160d-4cea-b7a5-5c384645550d"
+            name="class"
+            profile="CSharpProfile">
+            <propertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="ba4c0cb1-0ca5-465c-9c4f-2e6420f0a3d7">
+                <propertyInstance
+                  Id="7c57bfaa-7f0b-47d9-9675-4cdf6197be7b"
+                  name="ClrAttributes" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="52496b1b-7e45-4241-90a5-4f9329dace3b">
+                <propertyInstance
+                  Id="71767811-3242-48a2-98c0-286100c846f7"
+                  name="IsPartial"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="abf627e3-53c4-4b3f-b974-ca18e2feefff">
+                <propertyInstance
+                  Id="f90dbc74-264f-4ab1-8140-d5efe218f558"
+                  name="IsStatic"
+                  value="False" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="391b1c29-ba81-473c-b416-395c60cf551a">
+                <propertyInstance
+                  Id="21333a23-d74a-4ea2-ac53-d7552031a794"
+                  name="IsUnsafe"
+                  value="false" />
+              </stereotypeInstanceHasPropertyInstances>
+              <stereotypeInstanceHasPropertyInstances
+                Id="d4aa5e71-ffc6-4773-909d-54c694f9c5d5">
+                <propertyInstance
+                  Id="add80821-da84-4c0d-8b7e-e1616e5be0b7"
+                  name="PackageVisibility"
+                  value="internal" />
+              </stereotypeInstanceHasPropertyInstances>
+            </propertyInstances>
+          </stereotypeInstance>
+        </appliedStereotypesInternal>
+      </class>
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>

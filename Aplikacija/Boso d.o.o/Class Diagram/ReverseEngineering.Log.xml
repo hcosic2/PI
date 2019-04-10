@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 12.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2017-07-10T21:53:39" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: '672e4cae-4597-4a56-8ac2-68b1b89669a1' -  (ClassifierTemplateParameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Boolean' -  (PrimitiveType)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Medium" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac' -  (Class)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::adresa' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::dobavljac' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::dobavljac::adresa' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::dobavljac::id' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::dobavljac::korIme' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::dobavljac::lozinka' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::dobavljac::naziv' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::id' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::korIme' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::lozinka' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::dobavljac::naziv' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Medium" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci' -  (Class)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::components' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::Dispose' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::Dispose::disposing' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::dobavljac1' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::Dobavljaci' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::Dobavljaci::dobavljac1' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::Dobavljaci_Load' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::Dobavljaci_Load::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::Dobavljaci_Load::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::idNarudzbe' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::imeKorisnika' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::InitializeComponent' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::ispisUkupno' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_Click' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_Click::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_MouseLeave' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_MouseLeave::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_MouseLeave::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_MouseMove' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_MouseMove::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::izlaz_MouseMove::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::korisnik' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::lista' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::narudzbePrikaz' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::narudzbePrikaz_CellContentClick' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::narudzbePrikaz_CellContentClick::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::narudzbePrikaz_CellContentClick::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::narudžbe' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocket' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocket2' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocketBuffer' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocketBuffer2' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocketServerArgs' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocketServerArgs2' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocketServerArgsRadnja' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocketServerArgsRadnja::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::netSocketServerArgsRadnja::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::odbijNarudzbu' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::odbijNarudzbu_Click' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::odbijNarudzbu_Click::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::odbijNarudzbu_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::osluskivanje' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::posaljiOdgovor' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::posaljiOdgovor::stanje' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::posaljiPoruku' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::posaljiPoruku::poruka' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::postaviDestinaciju' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::pregledNarudzbi' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::pregledNarudzbi::lista' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::prihvatiNarudzbu' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::prihvatiNarudzbu_Click' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::prihvatiNarudzbu_Click::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::prihvatiNarudzbu_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::stanjeNarudzbe' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::stavke' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::stavkeNarudzbePrikaz' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::ukupno' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::zaprimanje' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::zaprimiId' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::Dobavljaci::zaprimiId::poruka' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Medium" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci' -  (Class)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::components' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::Dispose' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::Dispose::disposing' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::dobavljac1' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::dobavljacId' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::InitializeComponent' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_Click' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_Click::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_MouseLeave' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_MouseLeave::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_MouseLeave::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_MouseMove' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_MouseMove::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::izlaz_MouseMove::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::kIme' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::korImeUnos' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::lozinka' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::lozinkaUnos' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::naslov' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::potvrdiPrijavu' -  (Property)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::potvrdiPrijavu_Click' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::potvrdiPrijavu_Click::e' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::potvrdiPrijavu_Click::sender' -  (Parameter)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::Dobavljaci::PrijavaDobavljaci::PrijavaDobavljaci' -  (Operation)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Byte' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Collections' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Collections::Generic' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Collections::Generic::List' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Collections::Generic::List&lt;Int32‎&gt;' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::ComponentModel' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::ComponentModel::IContainer' -  (Interface)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::EventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Net' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Net::Sockets' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Net::Sockets::Socket' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Net::Sockets::SocketAsyncEventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows::Forms' -  (Package)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows::Forms::Button' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows::Forms::DataGridView' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows::Forms::DataGridViewCellEventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows::Forms::Form' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows::Forms::Label' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows::Forms::MouseEventArgs' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Class Diagram::System::Windows::Forms::TextBox' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Integer' -  (PrimitiveType)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Class Diagram::Dobavljaci::PrijavaDobavljaci to Class Diagram::System::Windows::Forms::Form (Generalization)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Class Diagram::Dobavljaci::Dobavljaci to Class Diagram::System::Windows::Forms::Form (Generalization)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Class Diagram::System::Windows::Forms::MouseEventArgs to Class Diagram::System::EventArgs (Generalization)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Class Diagram::System::Windows::Forms::DataGridViewCellEventArgs to Class Diagram::System::EventArgs (Generalization)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="Diagnostic" Text="Relationship reverse engineered into the UML model: Class Diagram::System::Net::Sockets::SocketAsyncEventArgs to Class Diagram::System::EventArgs (Generalization)" />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="High" Text="(3) type(s) fully reverse engineered." />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="High" Text="(15) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2017-07-10T21:53:42" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

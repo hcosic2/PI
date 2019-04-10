@@ -1,0 +1,13 @@
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\bin\Debug\Boso d.o.o.exe.config
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\bin\Debug\Boso d.o.o.exe
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\bin\Debug\Boso d.o.o.pdb
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso d.o.o.csprojResolveAssemblyReference.cache
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso_d.o.o.Properties.Resources.resources
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso d.o.o.csproj.GenerateResource.Cache
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso d.o.o.exe
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso d.o.o.pdb
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso_d.o.o.Admin.resources
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso_d.o.o.Forme.Narudzba.resources
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso_d.o.o.Prijava.resources
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso_d.o.o.Forme.Stanje.resources
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Boso d.o.o\obj\Debug\Boso_d.o.o.Zaposlenik.resources

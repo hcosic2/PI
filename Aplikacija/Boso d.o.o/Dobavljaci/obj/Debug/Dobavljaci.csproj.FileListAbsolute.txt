@@ -1,0 +1,10 @@
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\bin\Debug\Dobavljaci.exe.config
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\bin\Debug\Dobavljaci.exe
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\bin\Debug\Dobavljaci.pdb
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\obj\Debug\Dobavljaci.csprojResolveAssemblyReference.cache
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\obj\Debug\Dobavljaci.Properties.Resources.resources
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\obj\Debug\Dobavljaci.csproj.GenerateResource.Cache
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\obj\Debug\Dobavljaci.exe
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\obj\Debug\Dobavljaci.pdb
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\obj\Debug\Dobavljaci.Dobavljaci.resources
+F:\Novi projekt za 7. mjesec 2017\Boso d.o.o\Dobavljaci\obj\Debug\Dobavljaci.PrijavaDobavljaci.resources
